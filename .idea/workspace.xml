@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="finaltmp:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b1cf2e3-8d70-4966-8852-83d37e7a53df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+    <option name="myElementSize" value="20" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dbase@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dbase@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="ac9b823b-1708-4ca4-a8e3-9b36b71fdf36" />
+    </checked>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="finaltmp" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="jsf" />
+        <option value="CSS File" />
+        <option value="Jsp File" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1YvlrcKT2NNaSwL6Rc61aDufRYd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ua.nure.kortyak.test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\finaltmp\web" />
+      <recent name="C:\Users\User\IdeaProjects\finaltmp\web\jsp\ForUser" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\finaltmp\web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.31">
+    <configuration name="AddPeriodicalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="finaltmp" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.nure.kortyak.test" />
+      <option name="MAIN_CLASS_NAME" value="ua.nure.kortyak.test.AddPeriodicalTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddPeriodicalTest.execute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="finaltmp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.nure.kortyak.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.nure.kortyak.test" />
+      <option name="MAIN_CLASS_NAME" value="ua.nure.kortyak.test.AddPeriodicalTest" />
+      <option name="METHOD_NAME" value="execute" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddPeriodicalTest.execute4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="finaltmp" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.nure.kortyak.test" />
+      <option name="MAIN_CLASS_NAME" value="ua.nure.kortyak.test.AddPeriodicalTest" />
+      <option name="METHOD_NAME" value="execute4" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogoutTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="finaltmp" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.nure.kortyak.test" />
+      <option name="MAIN_CLASS_NAME" value="ua.nure.kortyak.test.LogoutTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogoutTest.execute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="finaltmp" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.nure.kortyak.FinalDBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.nure.kortyak.test" />
+      <option name="MAIN_CLASS_NAME" value="ua.nure.kortyak.test.LogoutTest" />
+      <option name="METHOD_NAME" value="execute" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.31" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="finaltmp:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/finaltmp" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_31_finaltmp" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61420" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="finaltmp:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AddPeriodicalTest.execute" />
+      <item itemvalue="JUnit.AddPeriodicalTest" />
+      <item itemvalue="JUnit.LogoutTest.execute" />
+      <item itemvalue="JUnit.AddPeriodicalTest.execute4" />
+      <item itemvalue="JUnit.LogoutTest" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.31" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AddPeriodicalTest.execute4" />
+        <item itemvalue="JUnit.AddPeriodicalTest" />
+        <item itemvalue="JUnit.LogoutTest" />
+        <item itemvalue="JUnit.LogoutTest.execute" />
+        <item itemvalue="JUnit.AddPeriodicalTest.execute" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.20247295" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b1cf2e3-8d70-4966-8852-83d37e7a53df" name="Default Changelist" comment="" />
+      <created>1583831148798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583831148798</updated>
+      <workItem from="1583831152381" duration="3215000" />
+      <workItem from="1583834563412" duration="2165000" />
+      <workItem from="1583847437277" duration="9383000" />
+      <workItem from="1583859497139" duration="4200000" />
+      <workItem from="1583868589557" duration="69000" />
+      <workItem from="1583909283211" duration="72000" />
+      <workItem from="1583914056991" duration="472000" />
+      <workItem from="1583915979031" duration="7243000" />
+      <workItem from="1583934518369" duration="1321000" />
+      <workItem from="1584017015194" duration="16689000" />
+      <workItem from="1584085908268" duration="6003000" />
+      <workItem from="1584099049470" duration="722000" />
+      <workItem from="1584113254488" duration="305000" />
+      <workItem from="1584176907495" duration="19521000" />
+      <workItem from="1584271399101" duration="8541000" />
+      <workItem from="1584294306520" duration="1697000" />
+      <workItem from="1584350766370" duration="4634000" />
+      <workItem from="1584366701417" duration="12385000" />
+      <workItem from="1584435534439" duration="20177000" />
+      <workItem from="1584518935019" duration="10021000" />
+      <workItem from="1584536932966" duration="15031000" />
+      <workItem from="1584606500415" duration="31047000" />
+      <workItem from="1584688344365" duration="7929000" />
+      <workItem from="1584780633311" duration="4477000" />
+      <workItem from="1584865396616" duration="11346000" />
+      <workItem from="1584881321764" duration="627000" />
+      <workItem from="1584896457701" duration="822000" />
+      <workItem from="1584954516817" duration="15581000" />
+      <workItem from="1585038896872" duration="11179000" />
+      <workItem from="1585051307825" duration="4000" />
+      <workItem from="1585061396980" duration="1978000" />
+      <workItem from="1585063415694" duration="2613000" />
+      <workItem from="1585129795794" duration="2521000" />
+      <workItem from="1585137913230" duration="3167000" />
+      <workItem from="1585210937389" duration="12123000" />
+      <workItem from="1585261790847" duration="11000" />
+      <workItem from="1585305545217" duration="215000" />
+      <workItem from="1585482368677" duration="10000" />
+      <workItem from="1586196621418" duration="800000" />
+      <workItem from="1586694681806" duration="2875000" />
+      <workItem from="1586697723405" duration="833000" />
+      <workItem from="1586699163559" duration="83000" />
+      <workItem from="1587121427913" duration="423000" />
+      <workItem from="1587484402832" duration="22000" />
+      <workItem from="1587637228594" duration="6025000" />
+      <workItem from="1587655463510" duration="3016000" />
+      <workItem from="1587831811741" duration="50000" />
+      <workItem from="1587899204607" duration="2305000" />
+      <workItem from="1587901546999" duration="2987000" />
+      <workItem from="1587904588416" duration="1037000" />
+      <workItem from="1587906063590" duration="331000" />
+      <workItem from="1587906427570" duration="3921000" />
+      <workItem from="1587923257030" duration="22000" />
+      <workItem from="1587977951366" duration="9883000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="518" y="229" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog" timestamp="1584965815192">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="518" y="229" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog/0.0.1366.728@0.0.1366.728" timestamp="1584965815192" />
+    <state x="266" y="37" width="1002" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587906353118">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="266" y="37" width="1002" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587906353118" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1585062471073">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585062471073" />
+    <state x="484" y="157" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1587906350922">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="157" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1587906350922" />
+    <state x="483" y="165" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587905377506">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="483" y="165" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1587905377506" />
+    <state x="41" y="45" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1587121667136">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="41" y="45" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1366.728@0.0.1366.728" timestamp="1587121667136" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584881731384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584881731384" />
+    <state x="481" y="66" key="ExecutionTargetDialog" timestamp="1587637344690">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="481" y="66" key="ExecutionTargetDialog/0.0.1366.728@0.0.1366.728" timestamp="1587637344690" />
+    <state x="115" y="143" key="FileChooserDialogImpl" timestamp="1587923276678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="143" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587923276678" />
+    <state width="1031" height="180" key="GridCell.Tab.0.bottom" timestamp="1587987684097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1031" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587987684097" />
+    <state width="1031" height="180" key="GridCell.Tab.0.center" timestamp="1587987684097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1031" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587987684097" />
+    <state width="1031" height="180" key="GridCell.Tab.0.left" timestamp="1587987684096">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1031" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587987684096" />
+    <state width="1031" height="180" key="GridCell.Tab.0.right" timestamp="1587987684097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1031" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587987684097" />
+    <state width="1031" height="180" key="GridCell.Tab.1.bottom" timestamp="1587987684097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1031" height="180" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587987684097" />
+    <state width="1031" height="180" key="GridCell.Tab.1.center" timestamp="1587987684097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1031" height="180" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587987684097" />
+    <state width="1031" height="180" key="GridCell.Tab.1.left" timestamp="1587987684097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1031" height="180" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587987684097" />
+    <state width="1031" height="180" key="GridCell.Tab.1.right" timestamp="1587987684097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1031" height="180" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587987684097" />
+    <state width="1031" height="180" key="GridCell.Tab.2.bottom" timestamp="1587987684097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1031" height="180" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587987684097" />
+    <state width="1031" height="180" key="GridCell.Tab.2.center" timestamp="1587987684097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1031" height="180" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1587987684097" />
+    <state width="1031" height="180" key="GridCell.Tab.2.left" timestamp="1587987684097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1031" height="180" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1587987684097" />
+    <state width="1031" height="180" key="GridCell.Tab.2.right" timestamp="1587987684097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1031" height="180" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1587987684097" />
+    <state width="484" height="2" key="GridCell.Tab.3.bottom" timestamp="1584607499929">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="484" height="2" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584607499929" />
+    <state width="484" height="2" key="GridCell.Tab.3.center" timestamp="1584607499928">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="484" height="2" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1584607499928" />
+    <state width="484" height="2" key="GridCell.Tab.3.left" timestamp="1584607499928">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="484" height="2" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1584607499928" />
+    <state width="484" height="2" key="GridCell.Tab.3.right" timestamp="1584607499928">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="484" height="2" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1584607499928" />
+    <state x="78" y="60" width="1040" height="608" key="SettingsEditor" timestamp="1587903621662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="78" y="60" width="1040" height="608" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587903621662" />
+    <state x="387" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587899853450">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1587899853450" />
+    <state x="454" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587899803574">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1587899803574" />
+    <state x="65" y="0" key="new project wizard" timestamp="1587831860289">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587831860289" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1584959434288">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1584959434288" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584880098583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584880098583" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/finaltmp$AddPeriodicalTest_execute.ic" NAME="AddPeriodicalTest.execute Coverage Results" MODIFIED="1587904056632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.kortyak.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/finaltmp$LogoutTest_execute.ic" NAME="LogoutTest.execute Coverage Results" MODIFIED="1587906714815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.nure.kortyak.FinalDBase.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/finaltmp$AddPeriodicalTest_execute4.ic" NAME="AddPeriodicalTest.execute4 Coverage Results" MODIFIED="1587907115728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/finaltmp$AddPeriodicalTest.ic" NAME="AddPeriodicalTest Coverage Results" MODIFIED="1587907212659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/finaltmp$LogoutTest.ic" NAME="LogoutTest Coverage Results" MODIFIED="1587907155091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.*</FILTER>
+    </SUITE>
+  </component>
+</project>
