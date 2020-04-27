@@ -35,37 +35,49 @@
                 <h1>${error1}</h1>
                 <c:choose>
                     <c:when test="${error1 == '1'}">
-                        <h1><fmt:message key="error.login"/></h1>
-                        <a type="submit" href="index.jsp" name="Back">Back</a>
+                        <h1 class="text-style"><fmt:message key="error.login"/></h1>
+                        <a type="submit" href="login.jsp" name="Back">Back</a>
                     </c:when>
                     <c:when test="${error1 == '2'}">
-                        <h1><fmt:message key="error.add"/></h1>
-                        <a type="submit" href="index.jsp" name="Back">Back</a>
+                        <h1 class="text-style"><fmt:message key="error.add"/></h1>
+                        <a type="submit" href="add.jsp" name="Back">Back</a>
                     </c:when>
                     <c:when test="${error1 == '3'}">
-                        <h1><fmt:message key="error.block"/></h1>
-                        <a type="submit" href="index.jsp" name="Back">Back</a>
+                        <h1 class="text-style"><fmt:message key="error.block"/></h1>
+                        <a type="submit" href="block.jsp" name="Back">Back</a>
                     </c:when>
                     <c:when test="${error1 == '4'}">
-                        <h1><fmt:message key="error.create_login"/></h1>
-                        <a type="submit" href="index.jsp" name="Back">Back</a>
+                        <h1 class="text-style"><fmt:message key="error.create_login"/></h1>
+                        <a type="submit" href="create.jsp" name="Back">Back</a>
                     </c:when>
                     <c:when test="${error1 == '5'}">
-                        <h1><fmt:message key="error.delete"/></h1>
-                        <a type="submit" href="index.jsp" name="Back">Back</a>
+                        <h1 class="text-style"><fmt:message key="error.delete"/></h1>
+                        <a type="submit" href="delete.jsp" name="Back">Back</a>
                     </c:when>
                     <c:when test="${error1 == '6'}">
-                        <h1><fmt:message key="error.edit"/></h1>
-                        <a type="submit" href="index.jsp" name="Back">Back</a>
+                        <h1 class="text-style"><fmt:message key="error.edit"/></h1>
+                        <a type="submit" href="edit.jsp" name="Back">Back</a>
                     </c:when>
                     <c:when test="${error1 == '7'}">
-                        <h1><fmt:message key="error.replenish"/></h1>
-                        <a type="submit" href="index.jsp" name="Back">Back</a>
+                        <h1 class="text-style"><fmt:message key="error.replenish"/></h1>
+                        <a type="submit" href="replenish.jsp" name="Back">Back</a>
                     </c:when>
                     <c:when test="${error1 == '8'}">
-                        <h1><fmt:message key="error.edit"/></h1>
+                        <h1 class="text-style"><fmt:message key="error.subscribe"/></h1>
+                        <a type="submit" href="search.jsp" name="Back">Back</a>
+                    </c:when>
+                    <c:when test="${error1 == '9'}">
+                        <h1 class="text-style"><fmt:message key="error.unblock"/></h1>
+                        <a type="submit" href="unblock.jsp" name="Back">Back</a>
+                    </c:when>
+                    <c:when test="${error1 == '10'}">
+                        <h1 class="text-style"><fmt:message key="error.access"/></h1>
                         <a type="submit" href="index.jsp" name="Back">Back</a>
                     </c:when>
+                    <c:otherwise>
+                        <h1 class="text-style"><fmt:message key="error.error"/></h1>
+                        <a type="submit" href="index.jsp" name="Back">Back</a>
+                    </c:otherwise>
 
                 </c:choose>
             </div>

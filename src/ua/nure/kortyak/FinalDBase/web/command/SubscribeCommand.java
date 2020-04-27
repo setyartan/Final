@@ -57,6 +57,7 @@ public class SubscribeCommand extends Command {
             forward = Path.SEARCH_PAGE;
         } else {
             forward = Path.PAGE_ERROR_PAGE;
+			  session.setAttribute("error", "8");
         }
 
         List<Periodical> allPeriodicals = managerForPeriodicals.findAllPeriodical();

@@ -35,6 +35,7 @@ public class UnblockUserCommand extends Command {
         LOG.trace("Request parameter: login --> " + login);
 
         if (managerForUser.findUserByLogin(login) == null) {
+			 session.setAttribute("error", "9");
             throw new AppException("User with this login does not exist to be unblocked");
         }
 

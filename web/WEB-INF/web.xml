@@ -76,6 +76,30 @@
 
     </filter-mapping>
 
+    <filter>
+
+        <filter-name>RepFilter</filter-name>
+
+        <filter-class>ua.nure.kortyak.FinalDBase.web.filter.RepFilter</filter-class>
+
+        <init-param>
+
+            <param-name>encoding</param-name>
+
+            <param-value>UTF-8</param-value>
+
+        </init-param>
+
+    </filter>
+
+    <filter-mapping>
+
+        <filter-name>RepFilter</filter-name>
+
+        <url-pattern>/replenish.jsp</url-pattern>
+
+    </filter-mapping>
+
 
     <resource-ref>
         <description>DB Connection</description>
