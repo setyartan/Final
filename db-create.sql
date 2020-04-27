@@ -100,13 +100,13 @@ CREATE TABLE periodicals
 -- inserting data into periodicals table
 -- ------------------------------------------------
 INSERT INTO periodicals
-VALUES (DEFAULT, 'EvgeniyIsLove', 1000);
+VALUES (DEFAULT, 'adc', 1000);
 INSERT INTO periodicals
-VALUES (DEFAULT, 'EvgeniyIsTheBest', 100000);
+VALUES (DEFAULT, 'abc', 100000);
 INSERT INTO periodicals
-VALUES (DEFAULT, 'EvgeniyIsGenius', 100);
+VALUES (DEFAULT, 'abcd', 100);
 INSERT INTO periodicals
-VALUES (DEFAULT, 'EvgeniyIsGenius2', 10000);
+VALUES (DEFAULT, 'sdf', 10000);
 
 SELECT *
 FROM periodicals
@@ -182,5 +182,6 @@ SELECT *
 FROM users;
 SELECT *
 FROM roles;
+
 
 
