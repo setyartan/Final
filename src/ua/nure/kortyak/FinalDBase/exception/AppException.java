@@ -1,7 +1,7 @@
 package ua.nure.kortyak.FinalDBase.exception;
 
 /**
- * An exception that provides information on an application error.
+ * An exception that provides information on an application error. 
  * 
  * @author E.Kortyak
  * 
